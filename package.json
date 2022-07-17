@@ -1,5 +1,5 @@
 {
-  "name": "jwtparse",
+  "name": "jwtextract",
   "version": "1.0.0",
   "description": "extract and parse jwt from headers",
   "main": "index.js",
