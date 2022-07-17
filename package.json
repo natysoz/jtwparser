@@ -1,0 +1,29 @@
+{
+  "name": "jwtparse",
+  "version": "1.0.0",
+  "description": "extract and parse jwt from headers",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/natysoz/jtwparser"
+  },
+  "author": "Natysoz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/natysoz/jtwparser"
+  },
+  "homepage": "https://github.com/natysoz/jtwparser",
+  "prettier": {
+    "trailingComma": "es5",
+    "tabWidth": 4,
+    "semi": false,
+    "singleQuote": true
+  },
+  "keywords": [
+    "prase",
+    "jwt",
+    "header",
+    "Authorization",
+    "Bearer"
+  ]
+}
