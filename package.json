@@ -1,6 +1,6 @@
 {
   "name": "jwtextract",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "extract and parse jwt from headers",
   "main": "index.js",
   "repository": {
